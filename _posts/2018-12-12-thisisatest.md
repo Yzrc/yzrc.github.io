@@ -4,7 +4,7 @@ title:      this is a test
 subtitle:   is this test working?
 date:       2018-12-12
 author:     Yzrc
-header-img: img/test.png
+header-img: img/test.jpg
 catalog: true
 tags:
     - Test
