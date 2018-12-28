@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 5f7d573c37768beba41a                            #生成的clientID
-  clientSecret: 58690e0017c8cb8134e4ffbbbbf3597c9e18b207    #生成的clientSecret
+  clientID: 1638d9cf49301b506392                            #生成的clientID
+  clientSecret: 60142470993551c68c8b6d314af2807b445af598    #生成的clientSecret
   repo: yzrc.github.io    #仓库名称
   owner: Yzrc  #github用户名
   admin: Yzrc
