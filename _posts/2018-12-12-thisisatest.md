@@ -1,32 +1,19 @@
 ---
 layout:     post
 title:      《昨日公园》
-subtitle:   【有的事你不懂 没关系 那是命运   有的事你不懂  没关系 那是爱】
+subtitle:   有的事你不懂 没关系 那是命运   有的事你不懂  没关系 那是爱
 date:       2020-11-09
 author:     Yzrc
 header-img: img/test.jpg
 catalog: true
 tags:
-    - Test
+    - 故事
 ---
 
-## 安装
 
-	xcode-select --install
+1
 
-![](https://upload-images.jianshu.io/upload_images/545662-f9031dfcce085f8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/459)
-
-## Xcode版本切换
-
-### 显示当前使用的xocde版本
-
-	$ xcode-select --print-path
-	
-### 选择Xcode中的默认版本
-
-	$ sudo xcode-select -switch /Applications/Xcode.app
-
-从球拍正中位置轻快反弹后，羽毛球划过九月的晴空，朝远处飞去。
+    从球拍正中位置轻快反弹后，羽毛球划过九月的晴空，朝远处飞去。
 
 　　对面是今年读三年级的翔一。他的眼睛好似瞄准猎物的野兽般，紧紧盯着目标。
 
